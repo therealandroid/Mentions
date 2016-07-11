@@ -11,3 +11,12 @@ Hello @diogojayme how are you? Im contacting you because I have to presentate yo
 ###Output
 
 Hello **diogojayme** how are you? Im contacting you because I have to presentate you **guilhermedourado** my new friend, he is from Brazil and want's to go out today, are you ready?
+
+##Easy usage
+
+    MentionUtil.createMentions(this, "message with people mentioned starting with the character @", textView, new MentionUtil.OnMentionClickListener() {
+      @Override
+      public void onMentionClick(String textClicked) {
+          //You have been clicked in a mentioned name
+      }
+    });
