@@ -1,6 +1,5 @@
 # Android-Mentions
-This repository offers a class that create mentions with clickable events from a String
-
+This class provides an easily way to create mentions in a `TextView` with boldered and clickable events.
 
 ##How it works?
 
