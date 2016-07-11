@@ -1,4 +1,4 @@
-# Android-Mentions
+# Android Mentions
 This class provides an easily way to create mentions in a `TextView` with boldered and clickable events.
 
 ##How it works?
