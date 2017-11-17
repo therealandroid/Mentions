@@ -1,4 +1,4 @@
-## Android Mentions
+## Mentions for Android
 
 This class provides an easily way to create `Clickable` span area based on a Regex Pattern for basic `TextView`. The class use `SpannableString` to build it up. 
 
